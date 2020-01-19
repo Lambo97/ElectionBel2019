@@ -26,3 +26,9 @@ Here I used the textual data from the ads to answer these reasearch questions :
 * What are the main topic of the ads
 * Whats is the favorite topic of each parti
 * What are the global sentiment in these ads
+
+
+## To Do:
+* Textual data analysis
+* Website for visalization
+* Iterate through the project by collecting more data
